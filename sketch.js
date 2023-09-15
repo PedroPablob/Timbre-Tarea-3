@@ -4,7 +4,7 @@ let currentColorIndex = 0; // Índice del color actual
 let trail = []; // Arreglo para almacenar la estela
 
 function setup() {
-  createCanvas(1920, 1080);
+  createCanvas(1680, 1050);
   x = width / 2;
   y = height / 2;
 
